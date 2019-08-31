@@ -1,0 +1,3 @@
+<h>hello {{name}}</h>
+
+Welcome to the Mjenzi App.You will always be updated about the ongoing projects and kept track of your progress on your projects"
